@@ -1,6 +1,6 @@
 # HelloPyCaffe
 ### Mission
-In this repository I try to publish some examples of usage Caffe from python. 
+In this repository I try to publish some examples of using Caffe from python. 
 Like this:  <br />
 1. Wrte loss layers  
 2. Debug python layers  
